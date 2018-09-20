@@ -1,4 +1,4 @@
-# sta426-week0
+# sta426-week1
 
 Example repository for week 0 exercise 
 
