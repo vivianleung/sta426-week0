@@ -9,7 +9,7 @@ Example repository for week 0 exercise
 For some good laughs check out [this link](https://youtu.be/l-5vD5YVLv8 "WHCA 2016")
 
 
-Oh, Canada!
+O Canada!
 ![This is an image.](canada.gif) 
 
 
